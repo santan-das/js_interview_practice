@@ -5,3 +5,11 @@ what is closures
 explain callback
 event binding
 thortling vs debouncing
+event propagation
+difference in var, let and const
+features of es6
+return type of functions
+
+
+
+
