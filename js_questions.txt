@@ -1,0 +1,7 @@
+Common question in js
+--------------------------
+what is hoisting?
+what is closures
+explain callback
+event binding
+thortling vs debouncing
