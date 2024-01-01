@@ -1,0 +1,29 @@
+-  what is angular and SPA?
+- what is new in angular 13
+- how angular runs?
+- building blocks in angular
+- view encapsulation
+- hostlistener and host binding
+ans - hostbinding lets you set the properties on the element or component that hosts the directive.
+
+hostlistener is a function decorator that accepts an event name as an argument . When that events get fired on the host element it calls the associative function.
+------------------------
+- directives and it's types in angular 
+- decorators/metadata in angular
+- diff in observables and promise
+- how to convert observables to promise and vice versa
+- rxjs operators
+- forkjoin 
+- diff between mergemap and concatmap
+- components in angular 
+- guards and its types
+- interceptor in angular
+- pipes and its types(inbuilt and custom)
+- diff between pure and impure pipes.
+- lazy loading in angular
+- trackBy in for directives
+- how to pass data to child component @input and @output
+- life cycle hooks in angular
+- diff in constructor and ngOnInit
+- diff between @viewchild and @viewchildren
+- content projection

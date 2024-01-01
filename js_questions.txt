@@ -4,11 +4,14 @@ what is hoisting?
 what is closures
 explain callback
 event binding
-thortling vs debouncing
+thorttling vs debouncing
 event propagation
 difference in var, let and const
 features of es6
 return type of functions
+spread vs rest operators
+async , await
+
 
 
 
